@@ -1,4 +1,4 @@
-package sample;
+package neziricm;
 
 public class Controller {
 }
